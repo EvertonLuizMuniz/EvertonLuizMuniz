@@ -1,16 +1,15 @@
-## Hi there 👋
+###  Boas vindas ao meu perfil 👋
 
-<!--
-**EvertonLuizMuniz/EvertonLuizMuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Meu nome é Everton Luiz
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+  muniz.everton@escola.pr.gov.br
+  
+  @itz_veto
+
+  ![](https://media1.tenor.com/m/aSvNzSQUVwAAAAAC/luffy-gear-5.gif)
