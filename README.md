@@ -12,4 +12,4 @@
   
   @itz_veto
 
-  ![](https://media1.tenor.com/m/aSvNzSQUVwAAAAAC/luffy-gear-5.gif)
+  ![](https://tenor.com/pt-BR/view/bleach-gif-99396494171477906)
